@@ -24,7 +24,7 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/purell"
-	"github.com/gambol99/go-oidc/jose"
+	"github.com/jd-daniels/go-oidc/jose"
 	"github.com/go-chi/chi/middleware"
 	"github.com/unrolled/secure"
 	"go.uber.org/zap"

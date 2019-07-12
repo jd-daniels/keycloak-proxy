@@ -73,7 +73,7 @@ BREAKING CHANGES:
 * changed option from json-format -> enable-json-logging [#PR199](https://github.com/gambol99/keycloak-proxy/pull/199)
 
 MISC:
-* Switch to using a go-oidc [fork](https://github.com/gambol99/go-oidc/commit/2111f98a1397a35f1800f4c3c354a7abebbef75c) for now, until i get the various bit merged upstream
+* Switch to using a go-oidc [fork](https://github.com/jd-daniels/go-oidc/commit/2111f98a1397a35f1800f4c3c354a7abebbef75c) for now, until i get the various bit merged upstream
 
 #### **2.0.7**
 

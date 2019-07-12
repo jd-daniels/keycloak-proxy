@@ -17,7 +17,7 @@ imports:
   - timeutil
 - name: github.com/fsnotify/fsnotify
   version: fd9ec7deca8bf46ecd2a795baaacf2b3a9be1197
-- name: github.com/gambol99/go-oidc
+- name: github.com/jd-daniels/go-oidc
   version: 2111f98a1397a35f1800f4c3c354a7abebbef75c
   subpackages:
   - http

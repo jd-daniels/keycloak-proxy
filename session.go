@@ -21,7 +21,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gambol99/go-oidc/jose"
+	"github.com/jd-daniels/go-oidc/jose"
 	"go.uber.org/zap"
 )
 
